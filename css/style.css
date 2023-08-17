@@ -1,0 +1,29 @@
+.judul1 {
+  text-align: center;
+  font-size: xx-large;
+  font-weight: bold;
+}
+header {
+  background-color: rgb(0, 255, 221);
+  color: rgb(5, 5, 5);
+  text-align: center;
+}
+.keterangan {
+  text-align: center;
+}
+input {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  border-radius: 5px;
+  width: 80%;
+  margin: auto;
+}
+button {
+  display: flex;
+  text-align: center;
+  background-color: rgb(25, 0, 255);
+  padding: 10px;
+  border-radius: 5px;
+  margin: auto;
+}
